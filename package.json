@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://irinasokolenko.github.io/goit-react-hw-08-phonebook/",
   "dependencies": {
+    "@chakra-ui/react": "^2.8.1",
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@reduxjs/toolkit": "^1.9.7",
@@ -16,6 +17,7 @@
     "cloudinary": "^1.41.0",
     "constants-browserify": "^1.0.0",
     "eslint": "^8.51.0",
+    "framer-motion": "^10.16.4",
     "modern-normalize": "^2.0.0",
     "nanoid": "^5.0.2",
     "normalize-scss": "^7.0.1",
