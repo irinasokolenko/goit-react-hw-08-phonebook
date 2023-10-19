@@ -25,7 +25,7 @@ export const UserName = styled.p`
 
   text-align: right;
 
-  color: #000000;
+  color: #505050;
 `;
 export const UserEmail = styled.p`
   font-style: normal;
@@ -52,7 +52,7 @@ export const LogOutBtn = styled.button`
   padding: 18px 26px;
 
   color: #ffffff;
-  background-color: #000000;
+  background-color:#505050;
 
   border: 1px solid #fabb18;
   border-radius: 14px;
@@ -61,7 +61,7 @@ export const LogOutBtn = styled.button`
 
   :hover,
   :focus {
-    color: #000000;
+    color: #505050;
     background: rgba(250, 187, 24, 0.1);
   }
 `;
