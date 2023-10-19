@@ -9,7 +9,7 @@ export const Logo = styled(NavLink)`
 
   margin-right: 114px;
 
-  color: #000000;
+  color: #505050;
   > span {
     color: #fabb18;
 
@@ -22,7 +22,7 @@ export const Logo = styled(NavLink)`
   :focus {
     color: #fabb18;
     > span {
-      color: #000000;
+      color: #505050;
     }
   }
 `;
@@ -37,7 +37,7 @@ export const MainNavLink = styled(NavLink)`
 
   padding: 22px 28px;
 
-  color: #000000;
+  color: #505050;
   background-color: #ffffff;
   border-radius: 18px;
 
@@ -50,6 +50,6 @@ export const MainNavLink = styled(NavLink)`
     font-weight: 600;
 
     color: #ffffff;
-    background-color: #000000;
+    background-color: #505050;
   }
 `;

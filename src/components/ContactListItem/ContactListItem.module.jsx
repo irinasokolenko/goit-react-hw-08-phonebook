@@ -74,7 +74,7 @@ export const Button = styled.button`
   gap: 14px;
 
   padding: 0.563em 1em;
-  background-color: #000000;
+  background-color: #505050;
 
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.04);
   border: 1px solid rgba(250, 187, 24, 0.1);
@@ -89,12 +89,12 @@ export const Button = styled.button`
 
   :hover,
   :focus {
-    color: #000000;
+    color: #505050;
     background-color: rgba(250, 187, 24, 0.1);
-    border: 1px solid #000000;
+    border: 1px solid #505050;
 
     > svg {
-      fill: #000000;
+      fill: #505050;
     }
   }
 `;
