@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/goit-react-hw-08-phonebook/static/css/main.7ce1b187.css",
-    "main.js": "/goit-react-hw-08-phonebook/static/js/main.96454cd4.js",
+    "main.js": "/goit-react-hw-08-phonebook/static/js/main.ffb63539.js",
     "static/js/946.4b745ffd.chunk.js": "/goit-react-hw-08-phonebook/static/js/946.4b745ffd.chunk.js",
-    "static/js/20.1f9293b4.chunk.js": "/goit-react-hw-08-phonebook/static/js/20.1f9293b4.chunk.js",
+    "static/js/20.fb5ee51a.chunk.js": "/goit-react-hw-08-phonebook/static/js/20.fb5ee51a.chunk.js",
     "static/js/696.92e3797c.chunk.js": "/goit-react-hw-08-phonebook/static/js/696.92e3797c.chunk.js",
     "static/js/506.467a942f.chunk.js": "/goit-react-hw-08-phonebook/static/js/506.467a942f.chunk.js",
     "static/js/686.fcaf303a.chunk.js": "/goit-react-hw-08-phonebook/static/js/686.fcaf303a.chunk.js",
     "static/js/135.f62af6ec.chunk.js": "/goit-react-hw-08-phonebook/static/js/135.f62af6ec.chunk.js",
     "index.html": "/goit-react-hw-08-phonebook/index.html",
     "main.7ce1b187.css.map": "/goit-react-hw-08-phonebook/static/css/main.7ce1b187.css.map",
-    "main.96454cd4.js.map": "/goit-react-hw-08-phonebook/static/js/main.96454cd4.js.map",
+    "main.ffb63539.js.map": "/goit-react-hw-08-phonebook/static/js/main.ffb63539.js.map",
     "946.4b745ffd.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/946.4b745ffd.chunk.js.map",
-    "20.1f9293b4.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/20.1f9293b4.chunk.js.map",
+    "20.fb5ee51a.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/20.fb5ee51a.chunk.js.map",
     "696.92e3797c.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/696.92e3797c.chunk.js.map",
     "506.467a942f.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/506.467a942f.chunk.js.map",
     "686.fcaf303a.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/686.fcaf303a.chunk.js.map",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.7ce1b187.css",
-    "static/js/main.96454cd4.js"
+    "static/js/main.ffb63539.js"
   ]
 }
